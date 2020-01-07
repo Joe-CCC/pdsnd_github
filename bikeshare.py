@@ -40,7 +40,7 @@ def get_filters():
             break
         else:
             print('not a valid month, please choose from the list above')
-    # TO DO: get user input for city (chicago, new york city, washington). HINT: Use a while loop to handle invalid inputs
+    # TO DO: get user input for cities (chicago, new york city, washington). HINT: Use a while loop to handle invalid inputs
 
 
     # TO DO: get user input for month (all, january, february, ... , june)
