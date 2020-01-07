@@ -1,15 +1,15 @@
 ### Date created
-Include the date you created this project and README file.
+07/01/2019
 
 ### Project Title
-Replace the Project Title
+explore the bikeshare data!
 
 ### Description
-Describe what your project is about and what it does
+This project shows descripted bikeshare data upon users' request to assist users get meaningful insights of bikeshare industry.
 
 ### Files used
-Include the files used
-
+chicago.csv
+new_york_city.csv
+washington.scv
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
+Udacity data
